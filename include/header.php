@@ -52,10 +52,10 @@
                         <a class="text-body px-2" href="https://www.facebook.com/share/1A42bU64PA/" target="_blank">
                             <i class="fab fa-facebook-f"></i>
                         </a>
-                        <a class="text-body px-2" href="https://x.com/maichel" target="_blank">
+                        <a class="text-body px-2" href="https://x.com/yjitXg90CSPSHK8" target="_blank">
                             <i class="fab fa-twitter"></i>
                         </a>
-                        <a class="text-body px-2" href="https://x.com/yjitXg90CSPSHK8" target="_blank">
+                        <a class="text-body px-2" href="https://x.com/maichel " target="_blank">
                             <i class="fab fa-instagram"></i>
                         </a>
                     </div>
@@ -69,9 +69,9 @@
     <!-- Navbar Start -->
     <div class="container-fluid sticky-top bg-white shadow-sm">
         <div class="container">
-            <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
+            <nav class="navbar navbar-expand-lg bg-white navbar-light py-2   py-lg-0">
                 <a href="index.php" class="navbar-brand">
-                    <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-clinic-medical me-2"></i>Best Smile</h1>
+                    <h2 class="m-0 text-uppercase text-primary "><i class="fa fa-clinic-medical me-2"></i>Best Smile</h2>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
